@@ -1,0 +1,3 @@
+C:\Users\mansf\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Plot.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Plot.dir/objects.a @CMakeFiles\Plot.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Plot.dir/objects.a -Wl,--no-whole-archive  -o Plot.exe -Wl,--out-implib,libPlot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Plot.dir\linklibs.rsp
