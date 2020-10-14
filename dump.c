@@ -1,4 +1,4 @@
-// TEst Test TEST
+// TEst Test TEST jh
 //// Ritar allt utom vertikala linjer
 ////
 ////void draw_line(PIXEL_RGB24 *image, int width, int height, float x0, float y0,
